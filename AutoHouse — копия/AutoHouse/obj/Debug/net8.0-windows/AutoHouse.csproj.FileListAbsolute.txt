@@ -1,0 +1,44 @@
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.exe
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.deps.json
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.runtimeconfig.json
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.dll
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.pdb
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.Form1.resources
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.AssemblyInfo.cs
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.sourcelink.json
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.csproj.Up2Date
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.dll
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\refint\AutoHouse.dll
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.pdb
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.genruntimeconfig.cache
+C:\Users\pavel\Desktop\AutoHouse\AutoHouse\obj\Debug\net8.0-windows\ref\AutoHouse.dll
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.exe
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.deps.json
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.runtimeconfig.json
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.dll
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\bin\Debug\net8.0-windows\AutoHouse.pdb
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.Form1.resources
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.AssemblyInfo.cs
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.sourcelink.json
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.csproj.Up2Date
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.dll
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\refint\AutoHouse.dll
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.pdb
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\AutoHouse.genruntimeconfig.cache
+C:\Users\pavel\Desktop\AutoHouse — копия\AutoHouse\obj\Debug\net8.0-windows\ref\AutoHouse.dll
